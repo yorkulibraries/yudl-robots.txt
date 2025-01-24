@@ -70,10 +70,13 @@ Disallow: /index.php/*/media/oembed
 #   - https://hg.sr.ht/robots.txt
 #   - https://gitlab.com/robots.txt
 #   - https://codeberg.org/robots.txt
-
+#   - https://raw.githubusercontent.com/ai-robots-txt/ai.robots.txt/refs/heads/main/robots.txt
 User-agent: AhrefsBot
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
 User-agent: Amazonbot
 User-agent: anthropic-ai
+User-agent: Applebot
 User-agent: Applebot-Extended
 User-agent: AspiegelBot
 User-agent: barkrowler
@@ -84,22 +87,36 @@ User-agent: ChatGPT-User
 User-agent: ClaudeBot
 User-agent: Claude-Web
 User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: Crawlspace
 User-agent: DataForSeoBot
 User-agent: Diffbot
 User-agent: dotbot
+User-agent: DuckAssistBot
 User-agent: FacebookBot
 User-agent: facebookexternalhit
 User-agent: FriendlyCrawler
 User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: GoogleOther-Image
+User-agent: GoogleOther-Video
 User-agent: GPTBot
+User-agent: iaskspider/2.0
 User-agent: ICC-Crawler
 User-agent: ImagesiftBot
 User-agent: img2dataset
+User-agent: ISSCyberRiskCrawler
+User-agent: Kangaroo Bot
+User-agent: Meta-ExternalAgent
 User-agent: meta-externalagent
+User-agent: Meta-ExternalFetcher
 User-agent: MJ12bot
 User-agent: OAI-SearchBot
 User-agent: Omgili
+User-agent: omgili
 User-agent: Omgilibot
+User-agent: omgilibot
+User-agent: PanguBot
 User-agent: PerplexityBot
 User-agent: PetalBot
 User-agent: rogerbot
@@ -108,10 +125,12 @@ User-agent: Seekport Crawler
 User-agent: SemrushBot
 User-agent: SemrushBot-SA
 User-agent: serpstatbot
+User-agent: Sidetrade indexer bot
 User-agent: Timpibot
 User-agent: Turnitin
 User-agent: turnitinbot
 User-agent: VelenPublicWebCrawler
+User-agent: Webzio-Extended
 User-agent: Yandex
 User-agent: YouBot
 User-agent: ZoominfoBot
