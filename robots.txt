@@ -123,7 +123,9 @@ User-agent: rogerbot
 User-agent: Scrapy
 User-agent: Seekport Crawler
 User-agent: SemrushBot
+User-agent: SemrushBot-OCOB
 User-agent: SemrushBot-SA
+User-agent: SemrushBot-SWA
 User-agent: serpstatbot
 User-agent: Sidetrade indexer bot
 User-agent: Timpibot
