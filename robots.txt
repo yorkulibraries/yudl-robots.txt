@@ -81,6 +81,7 @@ User-agent: Applebot-Extended
 User-agent: AspiegelBot
 User-agent: barkrowler
 User-agent: BLEXBot
+User-agent: Brightbot 1.0
 User-agent: Bytespider
 User-agent: CCBot
 User-agent: ChatGPT-User
