@@ -119,6 +119,7 @@ User-agent: Omgilibot
 User-agent: omgilibot
 User-agent: PanguBot
 User-agent: PerplexityBot
+User-agent: Perplexity‑User
 User-agent: PetalBot
 User-agent: rogerbot
 User-agent: Scrapy
