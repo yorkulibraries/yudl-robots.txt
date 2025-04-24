@@ -141,6 +141,7 @@ User-agent: iaskspider/2.0
 User-agent: img2dataset
 User-agent: imgproxy
 User-agent: meta-externalagent
+User-agent: meta-externalfetcher
 User-agent: omgili
 User-agent: omgilibot
 User-agent: rogerbot
