@@ -147,4 +147,5 @@ User-agent: omgilibot
 User-agent: rogerbot
 User-agent: serpstatbot
 User-agent: turnitinbot
+User-agent: QualifiedBot
 Disallow: /
