@@ -148,4 +148,5 @@ User-agent: rogerbot
 User-agent: serpstatbot
 User-agent: turnitinbot
 User-agent: QualifiedBot
+User-agent: Google-CloudVertexBot
 Disallow: /
