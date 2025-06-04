@@ -122,6 +122,7 @@ User-agent: PerplexityBot
 User-agent: PetalBot
 User-agent: PhindBot
 User-agent: QualifiedBot
+User-agent: SBIntuitionsBot
 User-agent: Scrapy
 User-agent: Seekport Crawler
 User-agent: SemrushBot
@@ -135,6 +136,8 @@ User-agent: Turnitin
 User-agent: VelenPublicWebCrawler
 User-agent: Webzio-Extended
 User-agent: Yandex
+User-agent: YandexAdditional
+User-agent: YandexAdditionalBot
 User-agent: YouBot
 User-agent: ZoominfoBot
 User-agent: aiHitBot
