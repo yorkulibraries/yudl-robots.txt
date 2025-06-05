@@ -117,11 +117,13 @@ User-agent: Omgili
 User-agent: Omgilibot
 User-agent: Operator
 User-agent: PanguBot
+User-agent: Panscient
 User-agent: Perplexity-User
 User-agent: PerplexityBot
 User-agent: PetalBot
 User-agent: PhindBot
 User-agent: QualifiedBot
+User-agent: QuillBot
 User-agent: SBIntuitionsBot
 User-agent: Scrapy
 User-agent: Seekport Crawler
@@ -154,6 +156,8 @@ User-agent: meta-externalagent
 User-agent: meta-externalfetcher
 User-agent: omgili
 User-agent: omgilibot
+User-agent: panscient.com
+User-agent: quillbot.com
 User-agent: rogerbot
 User-agent: serpstatbot
 User-agent: turnitinbot
