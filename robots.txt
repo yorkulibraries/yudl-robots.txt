@@ -145,6 +145,7 @@ User-agent: ZoominfoBot
 User-agent: aiHitBot
 User-agent: anthropic-ai
 User-agent: barkrowler
+User-agent: bedrockbot
 User-agent: cohere-ai
 User-agent: cohere-training-data-crawler
 User-agent: dotbot
