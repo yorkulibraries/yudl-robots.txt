@@ -129,8 +129,11 @@ User-agent: SBIntuitionsBot
 User-agent: Scrapy
 User-agent: Seekport Crawler
 User-agent: SemrushBot
+User-agent: SemrushBot-BA
+User-agent: SemrushBot-CT
 User-agent: SemrushBot-OCOB
 User-agent: SemrushBot-SA
+User-agent: SemrushBot-SI
 User-agent: SemrushBot-SWA
 User-agent: Sidetrade indexer bot
 User-agent: TikTokSpider
