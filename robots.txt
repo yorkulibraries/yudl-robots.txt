@@ -175,4 +175,6 @@ User-agent: rogerbot
 User-agent: serpstatbot
 User-agent: turnitinbot
 User-agent: wpbot
+User-agent: Gemini-Deep-Research
+User-agent: netEstate Imprint Crawler
 Disallow: /
