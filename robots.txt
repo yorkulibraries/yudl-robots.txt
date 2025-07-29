@@ -153,6 +153,7 @@ User-agent: Turnitin
 User-agent: VelenPublicWebCrawler
 User-agent: WARDBot
 User-agent: Webzio-Extended
+User-agent: YaK
 User-agent: Yandex
 User-agent: YandexAdditional
 User-agent: YandexAdditionalBot
