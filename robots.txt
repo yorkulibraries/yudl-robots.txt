@@ -72,6 +72,7 @@ Disallow: /index.php/*/media/oembed
 #   - https://codeberg.org/robots.txt
 #   - https://raw.githubusercontent.com/ai-robots-txt/ai.robots.txt/refs/heads/main/robots.txt
 User-agent: AI2Bot
+User-agent: AddSearchBot
 User-agent: AhrefsBot
 User-agent: Ai2Bot-Dolma
 User-agent: Amazonbot
@@ -90,6 +91,7 @@ User-agent: Claude-SearchBot
 User-agent: Claude-User
 User-agent: Claude-Web
 User-agent: ClaudeBot
+User-agent: CloudVertexBot
 User-agent: Cotoyogi
 User-agent: Crawlspace
 User-agent: DataForSeoBot
@@ -107,14 +109,15 @@ User-agent: GPTBot
 User-agent: Gemini-Deep-Research
 User-agent: Google-CloudVertexBot
 User-agent: Google-Extended
+User-agent: GoogleAgent-Mariner
 User-agent: GoogleOther
 User-agent: GoogleOther-Image
-User-agent: GoogleAgent-Mariner
 User-agent: GoogleOther-Video
 User-agent: ICC-Crawler
 User-agent: ISSCyberRiskCrawler
 User-agent: ImagesiftBot
 User-agent: Kangaroo Bot
+User-agent: LinerBot
 User-agent: MJ12bot
 User-agent: Meta-ExternalAgent
 User-agent: Meta-ExternalFetcher
@@ -164,6 +167,7 @@ User-agent: aiHitBot
 User-agent: anthropic-ai
 User-agent: barkrowler
 User-agent: bedrockbot
+User-agent: bigsur.ai
 User-agent: cohere-ai
 User-agent: cohere-training-data-crawler
 User-agent: dotbot
