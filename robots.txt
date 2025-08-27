@@ -109,6 +109,7 @@ User-agent: GPTBot
 User-agent: Gemini-Deep-Research
 User-agent: Google-CloudVertexBot
 User-agent: Google-Extended
+User-agent: Google-Firebase
 User-agent: GoogleAgent-Mariner
 User-agent: GoogleOther
 User-agent: GoogleOther-Image
@@ -149,6 +150,7 @@ User-agent: SemrushBot-OCOB
 User-agent: SemrushBot-SA
 User-agent: SemrushBot-SI
 User-agent: SemrushBot-SWA
+User-agent: ShapBot
 User-agent: Sidetrade indexer bot
 User-agent: SummalyBot
 User-agent: Thinkbot
