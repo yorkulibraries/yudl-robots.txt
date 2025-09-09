@@ -180,6 +180,7 @@ User-agent: img2dataset
 User-agent: imgproxy
 User-agent: meta-externalagent
 User-agent: meta-externalfetcher
+User-agent: meta-webindexer
 User-agent: netEstate Imprint Crawler
 User-agent: omgili
 User-agent: omgilibot
