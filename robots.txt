@@ -126,6 +126,7 @@ User-agent: ISSCyberRiskCrawler
 User-agent: IbouBot
 User-agent: ImagesiftBot
 User-agent: Kangaroo Bot
+User-agent: Linguee Bot
 User-agent: LinerBot
 User-agent: MJ12bot
 User-agent: Meta-ExternalAgent
