@@ -181,6 +181,7 @@ User-agent: YandexAdditionalBot
 User-agent: YouBot
 User-agent: ZoominfoBot
 User-agent: aiHitBot
+User-agent: amazon-kendra
 User-agent: amazon-kendra-
 User-agent: anthropic-ai
 User-agent: atlassian-bot
