@@ -129,6 +129,7 @@ User-agent: IbouBot
 User-agent: ImagesiftBot
 User-agent: Kangaroo Bot
 User-agent: KlaviyoAIBot
+User-agent: LAIONDownloader
 User-agent: LinerBot
 User-agent: Linguee Bot
 User-agent: MJ12bot
