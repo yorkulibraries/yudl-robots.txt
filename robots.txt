@@ -74,6 +74,7 @@ Disallow: /index.php/*/media/oembed
 #   - https://codeberg.org/robots.txt
 #   - https://raw.githubusercontent.com/ai-robots-txt/ai.robots.txt/refs/heads/main/robots.txt
 User-agent: AI2Bot
+User-agent: AI2Bot-DeepResearchEval
 User-agent: AddSearchBot
 User-agent: AhrefsBot
 User-agent: Ai2Bot-Dolma
@@ -91,6 +92,7 @@ User-agent: Brightbot 1.0
 User-agent: BuddyBot
 User-agent: Bytespider
 User-agent: CCBot
+User-agent: ChatGLM-Spider
 User-agent: ChatGPT Agent
 User-agent: ChatGPT-User
 User-agent: Claude-SearchBot
@@ -100,6 +102,7 @@ User-agent: ClaudeBot
 User-agent: CloudVertexBot
 User-agent: Cloudflare-AutoRAG
 User-agent: Cotoyogi
+User-agent: Crawl4AI
 User-agent: Crawlspace
 User-agent: DataForSeoBot
 User-agent: Datenbank Crawler
@@ -129,10 +132,14 @@ User-agent: IbouBot
 User-agent: ImagesiftBot
 User-agent: Kangaroo Bot
 User-agent: KlaviyoAIBot
+User-agent: KunatoCrawler
 User-agent: LAIONDownloader
+User-agent: LCC
 User-agent: LinerBot
 User-agent: Linguee Bot
+User-agent: LinkupBot
 User-agent: MJ12bot
+User-agent: Manus-User
 User-agent: Meta-ExternalAgent
 User-agent: Meta-ExternalFetcher
 User-agent: MistralAI-User
@@ -151,6 +158,7 @@ User-agent: Perplexity-User
 User-agent: PerplexityBot
 User-agent: PetalBot
 User-agent: PhindBot
+User-agent: Poggio-Citations
 User-agent: Poseidon Research Crawler
 User-agent: QualifiedBot
 User-agent: QuillBot
@@ -166,6 +174,7 @@ User-agent: SemrushBot-SI
 User-agent: SemrushBot-SWA
 User-agent: ShapBot
 User-agent: Sidetrade indexer bot
+User-agent: Spider
 User-agent: SummalyBot
 User-agent: TerraCotta
 User-agent: Thinkbot
@@ -174,12 +183,14 @@ User-agent: Timpibot
 User-agent: Turnitin
 User-agent: VelenPublicWebCrawler
 User-agent: WARDBot
+User-agent: WRTNBot
 User-agent: Webzio-Extended
 User-agent: YaK
 User-agent: Yandex
 User-agent: YandexAdditional
 User-agent: YandexAdditionalBot
 User-agent: YouBot
+User-agent: ZanistaBot
 User-agent: ZoominfoBot
 User-agent: aiHitBot
 User-agent: amazon-kendra
@@ -193,9 +204,13 @@ User-agent: cohere-ai
 User-agent: cohere-training-data-crawler
 User-agent: dotbot
 User-agent: facebookexternalhit
+User-agent: iAskBot
+User-agent: iaskspider
 User-agent: iaskspider/2.0
+User-agent: imageSpider
 User-agent: img2dataset
 User-agent: imgproxy
+User-agent: laion-huggingface-processor
 User-agent: meta-externalagent
 User-agent: meta-externalfetcher
 User-agent: meta-webindexer
@@ -207,5 +222,6 @@ User-agent: quillbot.com
 User-agent: rogerbot
 User-agent: serpstatbot
 User-agent: turnitinbot
+User-agent: webzio-extended
 User-agent: wpbot
 Disallow: /
