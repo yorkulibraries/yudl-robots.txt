@@ -92,6 +92,7 @@ User-agent: Brightbot 1.0
 User-agent: BuddyBot
 User-agent: Bytespider
 User-agent: CCBot
+User-agent: Channel3Bot
 User-agent: ChatGLM-Spider
 User-agent: ChatGPT Agent
 User-agent: ChatGPT-User
@@ -181,6 +182,7 @@ User-agent: Thinkbot
 User-agent: TikTokSpider
 User-agent: Timpibot
 User-agent: Turnitin
+User-agent: TwinAgent
 User-agent: VelenPublicWebCrawler
 User-agent: WARDBot
 User-agent: WRTNBot
