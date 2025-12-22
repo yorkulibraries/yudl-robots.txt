@@ -177,6 +177,7 @@ User-agent: ShapBot
 User-agent: Sidetrade indexer bot
 User-agent: Spider
 User-agent: SummalyBot
+User-agent: TavilyBot
 User-agent: TerraCotta
 User-agent: Thinkbot
 User-agent: TikTokSpider
